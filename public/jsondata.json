@@ -1,0 +1,29 @@
+[{
+  "group": "Group one",
+  "members": [
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" },
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" },
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" }
+  ]
+}, {
+  "group": "Group two",
+  "members": [
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" },
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" },
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" }
+  ]
+}, {
+  "group": "Group three",
+  "members": [
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" },
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" },
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" }
+  ]
+}, {
+  "group": "Group four",
+  "members": [
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" },
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" },
+    { "name":"Kofi Kwofie Adams Jnr", "contact": "0206738293" }
+  ]
+}]
